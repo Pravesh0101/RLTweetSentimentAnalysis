@@ -24,7 +24,10 @@ In today's digital age, Twitter serves as a dynamic platform where individuals e
 - **Real-Time Tweet Retrieval**: Uses the Twitter API to fetch tweets on current events and news headlines.
 - **Sentiment Analysis**: Employs lexicon-based methods and machine learning algorithms to decode emotions expressed in tweets.
 - **Data Visualization**: Visualizes sentiment analysis results using interactive charts and timelines for clear insights.
+  ![image](https://github.com/Pravesh0101/RLTweetSentimentAnalysis/assets/97783672/81ed310a-5067-443f-82c5-aebd90f235c8)
+
 - **Timely Insights**: Focuses on real-time news headlines to provide up-to-the-minute data for decision-makers.
+  
 
 ## Installation
 
